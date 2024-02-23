@@ -1,0 +1,15 @@
+C:\Users\ivank\source\repos\Matrix1\Matrix1\bin\Debug\net7.0\Matrix1.exe
+C:\Users\ivank\source\repos\Matrix1\Matrix1\bin\Debug\net7.0\Matrix1.deps.json
+C:\Users\ivank\source\repos\Matrix1\Matrix1\bin\Debug\net7.0\Matrix1.runtimeconfig.json
+C:\Users\ivank\source\repos\Matrix1\Matrix1\bin\Debug\net7.0\Matrix1.dll
+C:\Users\ivank\source\repos\Matrix1\Matrix1\bin\Debug\net7.0\Matrix1.pdb
+C:\Users\ivank\source\repos\Matrix1\Matrix1\obj\Debug\net7.0\Matrix1.csproj.AssemblyReference.cache
+C:\Users\ivank\source\repos\Matrix1\Matrix1\obj\Debug\net7.0\Matrix1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\source\repos\Matrix1\Matrix1\obj\Debug\net7.0\Matrix1.AssemblyInfoInputs.cache
+C:\Users\ivank\source\repos\Matrix1\Matrix1\obj\Debug\net7.0\Matrix1.AssemblyInfo.cs
+C:\Users\ivank\source\repos\Matrix1\Matrix1\obj\Debug\net7.0\Matrix1.csproj.CoreCompileInputs.cache
+C:\Users\ivank\source\repos\Matrix1\Matrix1\obj\Debug\net7.0\Matrix1.dll
+C:\Users\ivank\source\repos\Matrix1\Matrix1\obj\Debug\net7.0\refint\Matrix1.dll
+C:\Users\ivank\source\repos\Matrix1\Matrix1\obj\Debug\net7.0\Matrix1.pdb
+C:\Users\ivank\source\repos\Matrix1\Matrix1\obj\Debug\net7.0\Matrix1.genruntimeconfig.cache
+C:\Users\ivank\source\repos\Matrix1\Matrix1\obj\Debug\net7.0\ref\Matrix1.dll
