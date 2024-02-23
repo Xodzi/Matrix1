@@ -1,4 +1,5 @@
-﻿Console.Write("Введите количество строк (N): ");
+﻿//новая строка для коммита
+Console.Write("Введите количество строк (N): ");
 int n = int.Parse(Console.ReadLine());
 
 Console.Write("Введите количество столбцов (M): ");
